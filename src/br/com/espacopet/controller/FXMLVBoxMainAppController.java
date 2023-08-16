@@ -30,7 +30,7 @@ public class FXMLVBoxMainAppController implements Initializable {
     
     @FXML
     public void handleMenuItemCadastroCliente() throws IOException {
-        AnchorPane a = (AnchorPane)FXMLLoader.load(getClass().getResource("../view/FXMLAnchorPaneCadastroCliente.fxml"));;
+        AnchorPane a = (AnchorPane)FXMLLoader.load(getClass().getResource("../view/FXMLAnchorPaneCadastroCliente.fxml"));
         anchorPane.getChildren().setAll(a);
     }
     

@@ -3,8 +3,15 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
+            <file>file:/C:/Users/letic/Desktop/espaco%20pet/espaco_pet/src/br/com/espacopet/controller/FXMLAnchorPaneCadastroClienteDialogController.java</file>
+            <file>file:/C:/Users/letic/Desktop/espaco%20pet/espaco_pet/src/br/com/espacopet/controller/FXMLAnchorPaneCadastroProdutoDialogController.java</file>
+            <file>file:/C:/Users/letic/Desktop/espaco%20pet/espaco_pet/src/br/com/espacopet/controller/FXMLAnchorPaneCadastroProdutoController.java</file>
             <file>file:/C:/Users/letic/Desktop/espaco%20pet/espaco_pet/src/br/com/espacopet/controller/FXMLVBoxMainAppController.java</file>
+            <file>file:/C:/Users/letic/Desktop/espaco%20pet/espaco_pet/src/br/com/espacopet/controller/FXMLAnchorPaneCadastroClienteController.java</file>
+            <file>file:/C:/Users/letic/Desktop/espaco%20pet/espaco_pet/src/br/com/espacopet/model/dao/ProdutoDAO.java</file>
             <file>file:/C:/Users/letic/Desktop/espaco%20pet/espaco_pet/src/br/com/espacopet/mainapp/MainApp.java</file>
+            <file>file:/C:/Users/letic/Desktop/espaco%20pet/espaco_pet/src/br/com/espacopet/view/FXMLAnchorPaneCadastroProdutoDialog.fxml</file>
+            <file>file:/C:/Users/letic/Desktop/espaco%20pet/espaco_pet/src/br/com/espacopet/model/domain/Produto.java</file>
         </group>
     </open-files>
 </project-private>

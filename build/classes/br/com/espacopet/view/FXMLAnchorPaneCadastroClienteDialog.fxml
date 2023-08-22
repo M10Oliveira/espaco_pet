@@ -36,6 +36,7 @@
                </padding>
             </Label>
             <TextField fx:id="tfNome" prefHeight="11.0" prefWidth="281.0" GridPane.columnIndex="1" />
+            <TextField fx:id="tfNomeTutor" GridPane.columnIndex="1" GridPane.rowIndex="1" />
             <Label alignment="CENTER_RIGHT" prefHeight="18.0" prefWidth="119.0" text="Raça:" GridPane.rowIndex="2">
                <padding>
                   <Insets right="5.0" />
@@ -57,9 +58,8 @@
                </padding>
             </Label>
             <TextField fx:id="tfRaca" GridPane.columnIndex="1" GridPane.rowIndex="2" />
-            <TextField fx:id="tfCelular" GridPane.columnIndex="1" GridPane.rowIndex="4" />
             <TextField fx:id="tfEndereco" GridPane.columnIndex="1" GridPane.rowIndex="3" />
-            <TextField fx:id="tfNomeTutor" GridPane.columnIndex="1" GridPane.rowIndex="1" />
+            <TextField fx:id="tfCelular" GridPane.columnIndex="1" GridPane.rowIndex="4" />
             <DatePicker fx:id="dtDataRegistro" GridPane.columnIndex="1" GridPane.rowIndex="5" />
             <Label alignment="CENTER_RIGHT" prefHeight="18.0" prefWidth="101.0" text="Cliente Desde:" GridPane.rowIndex="5">
                <padding>
